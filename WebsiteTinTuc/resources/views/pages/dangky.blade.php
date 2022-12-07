@@ -9,7 +9,7 @@
     <div class="container-fluid py-3">
         <div class="container">
             <div class="bg-light py-2 px-4 mb-3">
-                <h3 class="m-0">Đăng ký</h3>
+                <h3 class="m-0">Đăng ký!</h3>
             </div>
             @if(session('thongbao'))
             <div class="alert alert-success">
