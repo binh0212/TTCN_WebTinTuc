@@ -27,7 +27,7 @@
                                 <div class="card-body">
                                     <div class="d-flex align-items-center justify-content-center m-b-30">
                                         {{-- <img class="img-fluid" alt="" src="assets/images/logo/logo.png"> --}}
-                                        <h2 class="m-b-0">ĐĂNG NHẬP</h2>
+                                        <h2 class="m-b-0">ĐĂNG NHẬP!</h2>
                                     </div>
                                        @if(session('thongbao'))
                                         <div class="alert alert-success">
