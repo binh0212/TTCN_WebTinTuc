@@ -172,7 +172,7 @@ class PageControllers extends Controller
         } else {
             return back()->with('thongbao', 'Đăng nhập không thành công: sai email hoặc mật khẩu');
         }
-
+        
     }
 
     // xử lý đăng xuất
