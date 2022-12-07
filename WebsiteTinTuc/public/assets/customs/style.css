@@ -1,0 +1,66 @@
+.login {
+    padding-right: 20px;
+}
+
+img.img-fluid.w-100 {
+    min-height: 200px;
+}
+
+img.img-fluid.w-100.tc-noibat {
+    min-height: 240px;
+}
+
+img.img-fluid.w-100.theloai {
+    min-height: 260px;
+}
+
+.overlay.position-relative.bg-light {
+    min-height: 280px;
+    justify-content: flex-start;
+}
+
+.overlay.position-relative.bg-light.theloai {
+    min-height: 305px;
+}
+
+.overlay.position-relative.bg-light.tc-noibat {
+    min-height: 305px;
+}
+
+.overlay.position-relative.bg-light.video {
+    min-height: 490px;
+}
+
+.noidung {
+    width: 98%;
+    /* padding-right: 20px; */
+}
+
+.form {
+    margin: 20px auto;
+}
+.form table {
+    background-color: #fcddb0;
+    border-radius: 10px;
+}
+.form table tr td {
+    padding: 5px;
+}
+
+img.avatar {
+    border-radius: 25px;
+}
+
+.d-flex.align-items-center.mk.justify-content-between.bg-light {
+    flex-direction: column;
+}
+
+p.small.text-muted {
+    display: none;
+}
+
+.form-chitiet {
+    margin: auto;
+    padding: 50px;
+    background-color: #fcddb0;
+}
